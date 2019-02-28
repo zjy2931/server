@@ -1,7 +1,9 @@
 # localtunnel-server
 ###  readMe
  * this is a new buranches
- 
+ [![Build Status](https://travis-ci.org/zjy2931/server.svg?branch=master)](https://travis-ci.org/zjy2931/server)
+ * add a image to rep
+
 [![Build Status](https://travis-ci.org/localtunnel/server.svg?branch=master)](https://travis-ci.org/localtunnel/server)
 
 localtunnel exposes your localhost to the world for easy testing and sharing! No need to mess with DNS or deploy just to have others test out your changes.
